@@ -1,0 +1,23 @@
+.text
+{
+    text-align: center;
+    color:black
+}
+.cartprice
+{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.object{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+      position: relative;
+      top:50px;
+    left:400px; 
+} 
+

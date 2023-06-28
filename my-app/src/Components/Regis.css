@@ -1,0 +1,21 @@
+.object{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.select{
+    width: 100px;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* align-content: flex-start; */
+}
+
+.drop{
+    display: flex;
+}

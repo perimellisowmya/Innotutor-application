@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.back{
+    background-color: rgb(223, 241, 241);
+}
+
+.cartprice{
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+.image
+{
+    height: auto;
+    width: 100%;
+}

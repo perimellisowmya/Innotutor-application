@@ -1,0 +1,30 @@
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.card-1{
+    width: 800px;
+    height: auto;
+    background-color:rgb(207, 201, 193);
+    
+   height: 300px;
+   position: relative;
+   top:30px;
+  padding:10px;
+}
+
+
+.card-2
+{
+    position: relative;
+    top:40px;
+    width: 19rem;
+    left:-40px;
+}
+.video
+{
+    height: 20px;
+    width: 20px;
+}
